@@ -1,0 +1,16 @@
+{
+"data": [
+    {
+      "interest": "Cars",
+	"type": "Sports cars"
+            },
+           {
+                "interest": "Watches",
+                "type": "Unique timepieces"
+          },
+	{
+		"interest": "Technology",
+		"type": "All things tech"
+	}
+      ]
+    }

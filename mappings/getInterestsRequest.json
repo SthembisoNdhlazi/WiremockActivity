@@ -1,0 +1,14 @@
+{
+	"priority": 1,
+	"request": {
+	"urlPattern": "/interests",
+	"method": "GET"
+	},
+	"response": {
+	"status": 200,
+	"bodyFileName": "getInterests.json",
+	"headers": {
+	"Content-Type": "application/json; charset=utf-8"
+	}
+	}
+}

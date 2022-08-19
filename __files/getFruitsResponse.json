@@ -1,0 +1,14 @@
+{
+"data": [
+    {
+        "fruit": "apple",
+        "size": "large",
+                "color": "red"
+            },
+           {
+                "fruit": "strawberries",
+                "size": "small",
+                "color": "red"
+          }
+      ]
+    }
